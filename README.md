@@ -1,3 +1,3 @@
 # GitDemo
-this is my first practice GItrepo
+this is my first practice Git-repo
 Author namre is : Vrushab H
