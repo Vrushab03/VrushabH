@@ -1,3 +1,4 @@
 # GitDemo
+<br>
 this is my first practice Git-repo
-Author namre is : Vrushab H
+Author name is : Vrushab H
